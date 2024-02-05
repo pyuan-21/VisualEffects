@@ -1,4 +1,4 @@
-Inspired by the attack range effect(a transparent solid circle with a color gradient, where the color fades from the center to the edge of the circle), as ![this image shown:](/AttackRangeEffect/images/lol-range-info.jpg)
+Inspired by the attack range effect(a transparent solid circle with a color gradient, where the color fades from the center to the edge of the circle), as this image shown: <img src="./images/lol-range-info.jpg" style="width:100px;"/>\
 
 - `/mesh/solid_circle.obj` is a mesh file which contains a solid circle plane with unit radius, created by Blender.
 
